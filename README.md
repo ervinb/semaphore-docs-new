@@ -81,6 +81,7 @@ Simply run
 
 ```
 ./deploy
+test
 ```
 
 which does `bundle exec middleman build` and uploads the content to an S3
